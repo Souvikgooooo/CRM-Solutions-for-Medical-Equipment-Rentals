@@ -1,4 +1,4 @@
-# Book Rental CRM Project
+# Medical Equipment Rental CRM Project
 
 The **Medical Equipment Rental CRM system** automates the management of medical equipment rentals, customer interactions, billing, and reminders for overdue equipment. This system leverages Salesforce components such as objects, validation rules, flows, Apex classes, and dashboards to deliver a streamlined rental experience. The primary goal is to enhance the rental process by providing automated reminders, real-time availability updates, and efficient billing management, ensuring healthcare providers have timely access to essential equipment.
 
